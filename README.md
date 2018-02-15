@@ -1,2 +1,2 @@
 # my_first_project
-it'sfirst
+it's my first project in COE
